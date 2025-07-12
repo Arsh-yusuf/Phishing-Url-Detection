@@ -1,7 +1,6 @@
 import ipaddress
 import re
 import urllib.request
-from bs4 import BeautifulSoup
 import socket
 import requests
 from googlesearch import search
